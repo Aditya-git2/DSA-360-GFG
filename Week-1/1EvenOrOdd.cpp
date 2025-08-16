@@ -1,3 +1,4 @@
+// c++ program to check if a number is even or odd using different approaches
 #include<iostream>
 using namespace std;
 // Naive approach -> using modulus operator   [T.C -> O(1) & S.C -> O(1)]
